@@ -354,3 +354,7 @@ input[type="submit"] {
 	}
 }
 
+/* Improve contrast of the selected portfolio filter */
+#gallery .nav-link.active.active-tag {
+    color: #000000;
+}
